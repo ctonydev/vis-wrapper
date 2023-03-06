@@ -1,4 +1,4 @@
-# WSGraph
+# vis wrapper
 
 This is a React wrapper for [Vis.js Network](https://github.com/visjs/vis-network) library.
 Besides just handling React/Vis interaction, this library provides an ability to write interaction plugins.
