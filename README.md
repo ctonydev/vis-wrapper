@@ -1,5 +1,9 @@
 # vis wrapper
-
+### Telegram:
+https://t.me/midasprince
+### Skype:
+live:.cid.68cec0b652575c8a
+#
 This is a React wrapper for [Vis.js Network](https://github.com/visjs/vis-network) library.
 Besides just handling React/Vis interaction, this library provides an ability to write interaction plugins.
 
